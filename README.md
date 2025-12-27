@@ -27,9 +27,10 @@
 - **Frameworks & Libraries:** Flutter, Flask, FastAPI
 - **AI / Machine Learning:** Computer Vision, NLP, YOLOv8, OpenCV, Scikit-learn, TensorFlow ,PyTorch, NumPy, Pandas, Data Preprocessing, AI Model Training 
 - **Databases:** MongoDB, Firebase ,MYSQL
-- **Tools & Platforms:** Git, GitHub, Kaggle, Google Colab
-- **Other:** REST APIs, Model Deployment, Text-to-Speech (TTS)
-- **Web Development**: HTML5, CSS3, JavaScript, React.js, Node.js, Flask, REST APIs 
+- **Tools & Platforms:** Git, GitHub, Kaggle, Google Colab ,VS Code , Android Studio
+- **Web Development**: HTML5, CSS3, JavaScript, React.js, Node.js, 
+- **Other:** REST APIs, Model Deployment, 
+
 
 
 ## 📫 Connect With Me
