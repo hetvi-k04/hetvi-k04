@@ -19,6 +19,19 @@
 - **Description:** A data-driven web application that identifies accident-prone areas and predicts accident severity using machine learning, clustering, and visualization techniques.
 - **Technology Stack:** Python, Flask, Scikit-learn, Pandas, Matplotlib, Clustering Algorithms
 
-<## 📫 Connect With Me
+---
+
+## Skills 🛠️
+
+- **Programming Languages:** Python, Dart, Java , C
+- **Frameworks & Libraries:** Flutter, Flask, FastAPI
+- **AI / Machine Learning:** Computer Vision, NLP, YOLOv8, OpenCV, Scikit-learn, TensorFlow ,PyTorch, NumPy, Pandas, Data Preprocessing, AI Model Training 
+- **Databases:** MongoDB, Firebase ,MYSQL
+- **Tools & Platforms:** Git, GitHub, Kaggle, Google Colab
+- **Other:** REST APIs, Model Deployment, Text-to-Speech (TTS)
+- **Web Development**: HTML5, CSS3, JavaScript, React.js, Node.js, Flask, REST APIs 
+
+
+## 📫 Connect With Me
 - 📧 Email:hetvi.kothari04@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/hetvi-kothari-008b83259
